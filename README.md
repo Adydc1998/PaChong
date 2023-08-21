@@ -1,4 +1,3 @@
-# PaChong
 基于无忧书网的简单爬虫练习
 
 需要requests，bs4，beautifulsoup库
